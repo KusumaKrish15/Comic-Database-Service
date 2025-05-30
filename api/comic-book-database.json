@@ -1,1 +1,78 @@
-
+{
+  "comicBooks": {
+    "batman": [
+      {
+        "issueNumber": 1,
+        "publisher": "DC_Comics",
+        "date": "Spring_1940",
+        "conditionGrade": "7.5",
+        "status": "Restored",
+        "upcCode": "0087021001",
+        "tradePrice": 198000.00,
+        "currency": "USD"
+      }
+    ],
+    "superman": [
+      {
+        "issueNumber": 1,
+        "publisher": "DC_Comics",
+        "date": "Summer_1939",
+        "conditionGrade": "5.0",
+        "status": "Restored",
+        "upcCode": "0087021002",
+        "tradePrice": 360000.00,
+        "currency": "USD"
+      }
+    ],
+    "fantasticFour": [
+      {
+        "issueNumber": 1,
+        "publisher": "Marvel_Comics",
+        "date": "November_1961",
+        "conditionGrade": "8.0",
+        "status": "Restored",
+        "upcCode": "0087021003",
+        "tradePrice": 148500.00,
+        "currency": "USD"
+      }
+    ],
+    "spiderMan": [
+      {
+        "issueNumber": 1,
+        "publisher": "Marvel_Comics",
+        "date": "June_1962",
+        "conditionGrade": "8.0",
+        "status": "Restored",
+        "upcCode": "0087021004",
+        "tradePrice": 999999.99,
+        "currency": "USD"
+      }
+    ],
+    "xMen": [
+      {
+        "issueNumber": 1,
+        "publisher": "Marvel_Comics",
+        "date": "Summer_1975",
+        "conditionGrade": "5.5",
+        "status": "Restored",
+        "upcCode": "4534639003",
+        "tradePrice": 1900.00,
+        "currency": "USD"
+      }
+    ]
+  },
+  "comicTradePaperBacks": {
+    "conanTheBarbarian": [
+      {
+        "issueNumber": 1,
+        "publisher": "Marvel_Comics",
+        "date": "October_1970",
+        "conditionGrade": "9.6",
+        "status": "Restored",
+        "upcCode": "4591364011",
+        "tradePrice": 3500.00,
+        "currency": "USD"
+      }
+    ]
+  }
+}
