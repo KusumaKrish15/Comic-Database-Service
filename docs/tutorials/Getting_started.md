@@ -1,12 +1,12 @@
-Get started by listing orca sightings: a tutorial
-This tutorial shows you how to download the API files and try one of the service actions: viewing all of the orca sightings reported in the app for the San Juan Islands. If you already set up your development environment, the process should take about 15 minutes.
+# Get started: a tutorial
+This tutorial shows you how to download the API files and try one of the available services. If you already set up your development environment, the process should take about 15 minutes.
 
 Step 1: Make sure you have the API files
-The files are located in the orca-sightings-api repo on GitHub. The directory contains the following files:
+The files are located in the Comic-Database-Service repo on GitHub. The directory contains the following files:
 
-orca-sightings-db.json: a JSON file containing example users and sightings.
-orca-sightings.sh: a shell script that starts JSON Server. Use this for Linux or macOS.
-orca-sightings.bat: a batch file that starts JSON Server. Use this for Windows.
+comic-database-service.json: a JSON file containing example comic books.
+start-server.sh: a shell script that starts JSON Server. Use this for Linux or macOS.
+start-server.bat: a batch file that starts JSON Server. Use this for Windows.
 Step 2: Start JSON Server
 Info to come
 
