@@ -1,6 +1,6 @@
 # Get started: a tutorial
 <mark>Adapted from To-do service API overiew. </mark>
-This tutorial shows you how to download the API files and try one of the available services. If you already [set up your development environment](/docs/tutorials/dev-env.md), the process should take about 15 minutes.
+<br>This tutorial shows you how to download the API files and try one of the available services. If you already [set up your development environment](/docs/tutorials/dev-env.md), the process should take about 15 minutes.
 
 ## Step 1: Make sure you have the API files
 The files are located in the [Comic-Database-Service repo](https://github.com/KusumaKrish15/Comic-Database-Service) on GitHub. The directory contains the following files:
