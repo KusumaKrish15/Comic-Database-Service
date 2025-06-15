@@ -38,7 +38,7 @@ To download each file:
 2. On Windows, double-click the `start-server.bat` file to start the service. On macOS or Linux, open the terminal, `cd` <directory name> where you downloaded the files, and type `./start-server.sh`. That runs the script in the current directory. If that doesn’t work, type `json-server comic-book-database.json`. You should see some text to show the service is running:
 
     ```
-     m-hhw2xgq3yw:api <username>$ json-server -w comic-book-database.json
+     macBook:api <username>$ json-server -w comic-book-database.json
 
      \{^_^}/ hi!
 
