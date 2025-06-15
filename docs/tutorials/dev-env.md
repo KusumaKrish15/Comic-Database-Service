@@ -82,9 +82,9 @@ To download each file:
 
 4. If you don't see the list of users, or receive an error in any step of the procedure, investigate and correct the error before continuing. Some common situations that cause errors include:
 
-1. You mistyped a command.
-2. You aren't in the correct directory.
-3. A required software component didn't install correctly.
-4. A required software component isn't up to date.
+   1. You mistyped a command.
+   2. You aren't in the correct directory.
+   3. A required software component didn't install correctly.
+   4. A required software component isn't up to date.
 
 If you see the list of comic books from the service, you're ready to do the tutorials.
