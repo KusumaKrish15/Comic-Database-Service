@@ -32,7 +32,6 @@ To download each file:
 2. Locate the download button on the top right corner of the panel, indicated by a downward arrow, and click it.
 3. Repeat this process for the comic-book-database.json file and one of the startup scripts: start-server.sh for macOS and Linux or start-server.bat for Windows.
 
-![image](https://github.com/user-attachments/assets/04d4388e-beed-47e4-bcd2-a4b5670cfbe8)
 
 
     ```shell
