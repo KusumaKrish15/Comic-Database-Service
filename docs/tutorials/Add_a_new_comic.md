@@ -1,6 +1,6 @@
 ## Prerequisites
 - You have a REST API endpoint that allows you to add new comic books.
-- The endpoint URL is https://api.example.com/comics.
+- The endpoint URL is `POST http://localhost:3000/comicBooks`.
 - The JSON server or API server is running and accessible.
 
 ## Step 1. Prepare the JSON data
