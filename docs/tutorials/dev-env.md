@@ -68,20 +68,7 @@ To download each file:
 3. If the service is running correctly, you should see a list of comic books from the service, such as in this example.
 
     ```js
-    {
-  "batman": [
-    {
-      "issueNumber": 1,
-      "publisher": "DC_Comics",
-      "date": "Spring_1940",
-      "conditionGrade": "7.5",
-      "status": "Restored",
-      "upcCode": "0087021001",
-      "tradePrice": 198000,
-      "currency": "USD"
-    }
-  ],
-        ...
+   
     ```
 
 If you don't see the list of users, or receive an error in any step
