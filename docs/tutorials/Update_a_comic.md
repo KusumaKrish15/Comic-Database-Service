@@ -1,38 +1,40 @@
+
+This tutorial covers creating the updated JSON data, using cURL commands to make PUT requests, and verifying the update
 ## Prerequisites
 - You have a REST API endpoint that allows you to add new comic books.
 - The endpoint URL is `PUT http://localhost:3000/comicBooks/{category}/{id}`, where `{category}` is the specific comic book category (e.g., batman) and `{id}` is the unique identifier of the comic book.
 - The JSON server or API server is running and accessible.
 
-## Step 1. Prepare the JSON data
-1. Create a JSON object representing the new comic book you want to add. For example, let's add a new "Green Lantern" comic book:
+## Step 1. Prepare the JSON data for update
+1. Create a JSON object representing the updated data for the comic book. For example, let's update the Batman comic book's condition and trade price:
 
 ```
 {
   "issueNumber": 1,
   "publisher": "DC_Comics",
-  "date": "July_1940",
-  "conditionGrade": "9.0",
+  "date": "Spring_1940",
+  "conditionGrade": "8.0",
   "status": "Restored",
-  "upcCode": "0087021005",
-  "tradePrice": 250000.00,
+  "upcCode": "0087021001",
+  "tradePrice": 210000.00,
   "currency": "USD"
 }
 ```
-2. Save this JSON data in a file called `new_comic.json`.
+2. Save this JSON data in a file called `update_comic.json`.
 
-## Step 2. cURL command to add the new book
-1. Use the POST method to send the JSON data to the server. To add the new comic book data under the "greenLantern" category, use the following cURL command:
+## Step 2. cURL command to update the comic book
+1. Use the PUT method to send the JSON data to the server. 
 
 ```
-curl -X POST "https://api.example.com/comics/greenLantern" \
+curl -X PUT "http://localhost:3000/comicBooks/batman/1" \
      -H "Content-Type: application/json" \
-     -d @new_comic.json
+     -d @update_comic.json
 ```
 
 ### Step 3: Using with the json-server
 Follow these steps:
 
-1. Start the json server
+1. Start the json server.
 2. Verify the comic-book-database.json file with the initial data. An excerpt below:
 
 ```
@@ -55,35 +57,35 @@ Follow these steps:
 ```
 
 3. Start json-server using the command: `json-server -w comic-book-database.json`
-4. Create `new_comic.json` file with new comic data. An example below:
+4. Create `update_comic.json` file with an updated content. An example below:
 
 ```   
 {
   "issueNumber": 1,
   "publisher": "DC_Comics",
-  "date": "July_1940",
-  "conditionGrade": "9.0",
+  "date": "Spring_1940",
+  "conditionGrade": "8.0",
   "status": "Restored",
-  "upcCode": "0087021005",
-  "tradePrice": 250000.00,
+  "upcCode": "0087021001",
+  "tradePrice": 210000.00,
   "currency": "USD"
 }
 ```
 
-5. Use cURL to add the new comic book.
+5. Use cURL to update the comic book.
 
 ```
-curl -X POST "http://localhost:3000/comicBooks/greenLantern" \
+curl -X PUT "http://localhost:3000/comicBooks/batman/1" \
      -H "Content-Type: application/json" \
-     -d @new_comic.json
+     -d @update_comic.json
 ```
 
-## Step 4: Verifying the addition
+## Step 4: Verifying the update
 1. To verify that the comic book has been added, you can use a GET request:
 
 ```
-curl -X GET "http://localhost:3000/comicBooks/greenLantern" -H "accept: application/json"
+curl -X GET "http://localhost:3000/comicBooks/batman/1" -H "accept: application/json"
 ```
-2. This should return the details of the newly added "Green Lantern" comic book.
+2. This should return the updated details of the "Batman" comic book.
 
-You have successfully added a new comic book to your collection using cURL. This tutorial covers creating the JSON data, using cURL commands to make POST requests, and verifying the addition. 
+You have successfully updated an existing comic book using cURL. 
