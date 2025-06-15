@@ -80,7 +80,6 @@ To download each file:
       "currency": "USD"
     }
   ```
-
 4. If you don't see the list of users, or receive an error in any step of the procedure, investigate and correct the error before continuing. Some common situations that cause errors include:
 
 1. You mistyped a command.
