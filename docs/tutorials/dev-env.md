@@ -68,7 +68,7 @@ To download each file:
 
    ```
    {
-  "batman": [
+     "batman": [
     {
       "issueNumber": 1,
       "publisher": "DC_Comics",
@@ -80,19 +80,7 @@ To download each file:
       "currency": "USD"
     }
   ],
-  "superman": [
-    {
-      "issueNumber": 1,
-      "publisher": "DC_Comics",
-      "date": "Summer_1939",
-      "conditionGrade": "5.0",
-      "status": "Restored",
-      "upcCode": "0087021002",
-      "tradePrice": 360000,
-      "currency": "USD"
-    }
-  ],
-  ```
+```
 
 If you don't see the list of users, or receive an error in any step
 of the procedure, investigate and correct the error before continuing.
