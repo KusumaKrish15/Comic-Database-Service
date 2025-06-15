@@ -3,9 +3,10 @@
 - The endpoint URL is https://api.example.com/comics.
 - The JSON server or API server is running and accessible.
 
-##Step 1. Prepare the JSON Data
-Create a JSON object representing the new comic book you want to add. For example, let's add a new "Green Lantern" comic book:
+## Step 1. Prepare the JSON Data
+1. Create a JSON object representing the new comic book you want to add. For example, let's add a new "Green Lantern" comic book:
 
+```
 {
   "issueNumber": 1,
   "publisher": "DC_Comics",
@@ -16,7 +17,8 @@ Create a JSON object representing the new comic book you want to add. For exampl
   "tradePrice": 250000.00,
   "currency": "USD"
 }
-Save this JSON data in a file called new_comic.json.
+```
+2. Save this JSON data in a file called `new_comic.json`.
 
 2. cURL Command to Add the New Comic Book
 Use the POST method to send the JSON data to the server. Assuming the server expects the new comic book data under the "greenLantern" category, you can do this with the following cURL command:
