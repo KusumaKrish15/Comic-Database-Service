@@ -46,4 +46,18 @@ curl http://localhost:3000/comicBooks
 1 In Postman’s main panel select GET and add the following content to the URL text box: http://localhost:3000/comicBooks/.
 
 ## Step 4: View the response
-The response pane should show all the comic books. 
+The response pane should show all the comic books. An example below. 
+ ```
+   {
+     "batman": [
+    {
+      "issueNumber": 1,
+      "publisher": "DC_Comics",
+      "date": "Spring_1940",
+      "conditionGrade": "7.5",
+      "status": "Restored",
+      "upcCode": "0087021001",
+      "tradePrice": 198000,
+      "currency": "USD"
+    }
+
