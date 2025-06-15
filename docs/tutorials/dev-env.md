@@ -66,8 +66,8 @@ To download each file:
 
 3. If the service is running correctly, you should see a list of comic books from the service, such as in this example.
 
-   ```js
-    {
+   ```
+   {
   "batman": [
     {
       "issueNumber": 1,
@@ -92,8 +92,7 @@ To download each file:
       "currency": "USD"
     }
   ],
-        ...
-    ```
+  ```
 
 If you don't see the list of users, or receive an error in any step
 of the procedure, investigate and correct the error before continuing.
