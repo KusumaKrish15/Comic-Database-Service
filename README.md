@@ -26,4 +26,4 @@ If you'd like to contribute:
     * Must help the end user of the product. Ideally you'll address an issue, while some opportunities for improvement don't have a corresponding issue.
     * Must have no lint or Vale errors.
     * Must have no errors in any code examples.
-5. Test your changes locally from your feature branch before you submit a pull request, please.
+5. Test your changes locally from your feature branch before you submit a pull request.
