@@ -1,5 +1,6 @@
 
-This tutorial covers creating the updated JSON data, using cURL commands to make PUT requests, and verifying the update
+This tutorial covers updating an existing comic book. You'll learn how to update the JSON data, use cURL commands to make PUT requests, and verifying the update.
+
 ## Prerequisites
 - You have a REST API endpoint that allows you to add new comic books.
 - The endpoint URL is `PUT http://localhost:3000/comicBooks/{category}/{id}`, where `{category}` is the specific comic book category (e.g., batman) and `{id}` is the unique identifier of the comic book.
