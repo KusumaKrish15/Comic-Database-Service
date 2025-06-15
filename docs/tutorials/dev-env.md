@@ -32,7 +32,8 @@ To download each file:
 2. Locate the download button on the top right corner of the panel, indicated by a downward arrow, and click it.
 3. Repeat this process for the comic-book-database.json file and one of the startup scripts: start-server.sh for macOS and Linux or start-server.bat for Windows.
 
-
+Go to the directory on your computer where you downloaded orca-sightings-db.json and the relevant start script.
+On Windows, double-click the start-server.bat file to start the service. On macOS or Linux, open a terminal window, cd to the directory where you downloaded the files, and type ./orca-sightings.sh. That runs the script in the current directory. If that doesn’t work, type json-server orca-sightings-db.json. You should see some text like this that shows the service is running:
 
     ```shell
     cd <your GitHub repo workspace>
