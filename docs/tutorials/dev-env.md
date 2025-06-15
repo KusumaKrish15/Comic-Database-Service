@@ -37,18 +37,23 @@ To download each file:
 1. Navigate to the directory where you downloaded comic-book-database.json and the start scripts.
 2. On Windows, double-click the `start-server.bat` file to start the service. On macOS or Linux, open the terminal, `cd` <directory name> where you downloaded the files, and type `./start-server.sh`. That runs the script in the current directory. If that doesn’t work, type `json-server comic-book-database.json`. You should see some text to show the service is running:
 
-    ```shell
-    m-hhw2xgq3yw:api k0k06t6$ json-server -w comic-book-database.json
-  \{^_^}/ hi!
-  Loading comic-book-database.json
-  Done
-  Resources
-  http://localhost:3000/comicBooks
-  http://localhost:3000/comicTradePaperBacks
-  Home
-  http://localhost:3000
-  Type s + enter at any time to create a snapshot of the database
-  Watching...
+    ```
+     m-hhw2xgq3yw:api k0k06t6$ json-server -w comic-book-database.json
+
+     \{^_^}/ hi!
+
+     Loading comic-book-database.json
+     Done
+
+     Resources
+     http://localhost:3000/comicBooks
+     http://localhost:3000/comicTradePaperBacks
+
+     Home
+     http://localhost:3000
+
+     Type s + enter at any time to create a snapshot of the database
+     Watching...
     ```
 
 3. If your development system is installed correctly, you should see the service start and display the URL of the service: `http://localhost:3000`.
