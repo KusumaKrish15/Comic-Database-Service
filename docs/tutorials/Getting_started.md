@@ -15,7 +15,7 @@ The files are located in the [Comic-Database-Service repo](https://github.com/Ku
 3. Start the service by typing `json-server -w comic-book-database.json`. You should see some text to show the service is running:
 
     ```
-     m-hhw2xgq3yw:api k0k06t6$ json-server -w comic-book-database.json
+     m-hhw2xgq3yw:api <username>$ json-server -w comic-book-database.json
 
      \{^_^}/ hi!
 
