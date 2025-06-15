@@ -25,9 +25,15 @@ For information about how to prepare MacOS for the tutorials, visit the [MacOS i
 
 ## Test your development system
 
-To test your development system, follow these steps:
+Create and checkout a test branch of your fork of the comic-database-service repo. You can download these from the [Comic Database service repository on GitHub](https://github.com/KusumaKrish15/Comic-Database-Service/tree/main/api).
 
-1. Create and checkout a test branch of your fork of the comic-database-service repo. You can download these from the [Comic Database service repository on GitHub](https://github.com/KusumaKrish15/Comic-Database-Service/tree/main/api).
+To download each file:
+1. Move your cursor over the filename and select the link that appears.
+2. Locate the download button on the top right corner of the panel, indicated by a downward arrow, and click it.
+3. Repeat this process for the comic-book-database.json file and one of the startup scripts: start-server.sh for macOS and Linux or start-server.bat for Windows.
+
+![image](https://github.com/user-attachments/assets/04d4388e-beed-47e4-bcd2-a4b5670cfbe8)
+
 
     ```shell
     cd <your GitHub repo workspace>
