@@ -27,7 +27,7 @@ For information about how to prepare MacOS for the tutorials, visit the [MacOS i
 
 To test your development system, follow these steps:
 
-1. Create and checkout a test branch of your fork of the comic-database-service repo. Your `GitHub repo workspace` is the directory that contains your fork of the `comic-database-service` repo.
+1. Create and checkout a test branch of your fork of the comic-database-service repo. You can download these from the [Comic Database service repository on GitHub](https://github.com/KusumaKrish15/Comic-Database-Service/tree/main/api).
 
     ```shell
     cd <your GitHub repo workspace>
