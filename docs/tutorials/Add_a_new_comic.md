@@ -1,3 +1,5 @@
+This tutorial covers adding a new comic book to the database. You'll learn how to create the JSON data, use cURL commands to make POST requests, and verify the addition. 
+
 ## Prerequisites
 - You have a REST API endpoint that allows you to add new comic books.
 - The endpoint URL is `POST http://localhost:3000/comicBooks`.
@@ -86,4 +88,4 @@ curl -X GET "http://localhost:3000/comicBooks/greenLantern" -H "accept: applicat
 ```
 2. This should return the details of the newly added "Green Lantern" comic book.
 
-You have successfully added a new comic book to your collection using cURL. This tutorial covers creating the JSON data, using cURL commands to make POST requests, and verifying the addition. 
+You have successfully added a new comic book to your collection using cURL. 
