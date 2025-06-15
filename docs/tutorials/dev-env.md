@@ -39,22 +39,16 @@ To download each file:
 
     ```shell
     m-hhw2xgq3yw:api k0k06t6$ json-server -w comic-book-database.json
-
   \{^_^}/ hi!
-
   Loading comic-book-database.json
   Done
-
   Resources
   http://localhost:3000/comicBooks
   http://localhost:3000/comicTradePaperBacks
-
   Home
   http://localhost:3000
-
   Type s + enter at any time to create a snapshot of the database
   Watching...
-
     ```
 
 3. If your development system is installed correctly, you should see the service start and display the URL of the service: `http://localhost:3000`.
