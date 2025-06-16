@@ -56,5 +56,7 @@ Returns the information from the request body plus a unique ID for the comic boo
 ```
 
 ## Return status
+
 | Status value | Return status | Description |
+---
 | 201 | Created | A new resource was created successfully |
