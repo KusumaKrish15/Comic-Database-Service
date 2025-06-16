@@ -11,7 +11,7 @@ Learn how to do common tasks with in the Comic Database Service.
 
 First, do this tutorial to set up your development system for these tutorials. You only have to do this one time per development system.
 
-* [Before you start a tutorial](Getting_started.md)
+* [Before you start a tutorial](/Getting_started.md)
 
 After your system is ready, these tutorials show you how to perform common tasks.
 
