@@ -7,17 +7,17 @@ Creates a new comic book entry in the collection.
 ## URL
 `{base_url}/comicBooks`
 
-## Base URL Parameters
+## Base URL parameters
 **Optional**: You should include all properties: title, issueNumber, publisher, date, conditionGrade, status, upcCode, tradePrice, and currency.
 The service automatically assigns the new comic book a unique ID.
 
 ## Headers
 `Content-Type: application/json`
 
-## Request Body
+## Request body
 A JSON object containing the properties of the comic book to be added.
 
-### cURL Example
+### cURL example
 Shows creating a new comic book titled "Batman".
 
 ```
@@ -55,12 +55,6 @@ Returns the information from the request body plus a unique ID for the comic boo
 }
 ```
 
-## Return Status
+## Return status
 | Status value | Return status | Description |
 | 201 | Created | A new resource was created successfully |
-
-Return Status Description
-
-201
-
-Created - A new resource was created successfully.
