@@ -1,4 +1,4 @@
-# Get All Comic Books or a Book by Title
+# Get all comic books or a Book by title
 
 Lists all comic books in the collection or a specific comic book by title.
 
