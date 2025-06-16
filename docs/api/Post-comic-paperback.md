@@ -1,55 +1,55 @@
 ## Add a new comic
-Creates a new comic book entry in the collection.
+Creates a new comic trade paperback book entry in the collection.
 
 ## Method: 
 `POST`
 
 ## URL
-`{base_url}/comicBooks`
+`{base_url}/comicTradePaperBacks`
 
 ## Base URL parameters
 **Optional**: You should include all properties: title, issueNumber, publisher, date, conditionGrade, status, upcCode, tradePrice, and currency.
-The service automatically assigns the new comic book a unique ID.
+The service automatically assigns new comic trade paperback book a unique ID.
 
 ## Headers
 `Content-Type: application/json`
 
 ## Request body
-A JSON object containing the properties of the comic book to be added.
+A JSON object containing the properties of the comic trade paperback book to be added.
 
 ### cURL example
-Shows creating a new comic book titled "Batman".
+Shows creating a new comic trade paperback book titled "Conan The Barbarian".
 
 ```
 curl -X POST \
 -H "Content-Type: application/json" \
 -d '{ 
-  "title": "batman",
+  "title": "conanTheBarbarian",
   "issueNumber": 1,
-  "publisher": "DC_Comics",
-  "date": "Spring_1940",
-  "conditionGrade": "7.5",
+  "publisher": "Marvel_Comics",
+  "date": "October_1970",
+  "conditionGrade": "9.6",
   "status": "Restored",
-  "upcCode": "0087021001",
-  "tradePrice": 198000.00,
+  "upcCode": "4591364011",
+  "tradePrice": 3500.00,
   "currency": "USD"
 }' \
-http://localhost:3000/comicBooks
+http://localhost:3000/comicTradePaperBacks
 ```
 
 ## Response
-Returns the information from the request body plus a unique ID for the comic book.
+Returns the information from the request body plus a unique ID for the comic trade paperback book.
 
 ```
 {
-  "title": "batman",
+  "title": "conanTheBarbarian",
   "issueNumber": 1,
-  "publisher": "DC_Comics",
-  "date": "Spring_1940",
-  "conditionGrade": "7.5",
+  "publisher": "Marvel_Comics",
+  "date": "October_1970",
+  "conditionGrade": "9.6",
   "status": "Restored",
-  "upcCode": "0087021001",
-  "tradePrice": 198000.00,
+  "upcCode": "4591364011",
+  "tradePrice": 3500.00,
   "currency": "USD",
   "id": 5
 }
