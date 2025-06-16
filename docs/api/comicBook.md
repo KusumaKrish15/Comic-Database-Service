@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# `user` resource
+# `comicBook` resource
 
 Base endpoint:
 
@@ -15,7 +15,7 @@ Contains information about the comic books in the collection. A comicBook resour
 
 ## Resource properties
 
-Sample `user` resource
+Sample `comicBook` resource
 
 ```js
 
