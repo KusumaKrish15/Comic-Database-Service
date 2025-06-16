@@ -1,4 +1,4 @@
-# Get all comic books or a Book by title
+# Get all comic books or a book by title
 
 Lists all comic books in the collection or a specific comic book by title.
 
@@ -10,7 +10,7 @@ Lists all comic books in the collection or a specific comic book by title.
 •	**List all comic books**: `{base_url}/comicBooks` <br>
 •	**Get a comic book by title**: `{base_url}/comicBooks/{title}` 
 
-## Base URL Parameters
+## Base URL parameters
 •	**Optional**: The title of a specific comic book to list.
 
 ## Headers
@@ -45,7 +45,7 @@ Returns all comic books or the specific comic book requested. The following exam
 }
 ```
 
-## Post Return status
+## Post return status
 
 | Status value | Return status | Description |
 | ------------ | ------------- | ------------------------------------------------------------ |
