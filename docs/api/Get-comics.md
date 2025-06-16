@@ -7,8 +7,8 @@ Lists all comic books in the collection or a specific comic book by title.
 `GET`
 
 ## Endpoints
-•	**List all comic books**: {base_url}/comicBooks <br>
-•	**Get a comic book by title**: {base_url}/comicBooks/{title} 
+•	**List all comic books**: `{base_url}/comicBooks` <br>
+•	**Get a comic book by title**: `{base_url}/comicBooks/{title}` 
 
 ## Base URL Parameters
 •	**Optional**: The title of a specific comic book to list.
@@ -30,7 +30,7 @@ curl -X GET http://localhost:3000/comicBooks/batman
 
 ### Postman example
 #### Request builder method and endpoint:
-•	Select GET and enter http://localhost:3000/comicBooks/batman.
+•	Select GET and enter `http://localhost:3000/comicBooks/batman`.
 
 #### Request builder body:
 None required.
