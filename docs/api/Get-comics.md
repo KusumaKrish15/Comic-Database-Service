@@ -28,13 +28,6 @@ Returns the comic book with the title "batman".
 curl -X GET http://localhost:3000/comicBooks/batman
 ```
 
-### Postman example
-#### Request builder method and endpoint:
-•	Select GET and enter `http://localhost:3000/comicBooks/batman`.
-
-#### Request builder body:
-None required.
-
 ## Return body
 Returns all comic books or the specific comic book requested. The following example shows the result of requesting the comic book with the title "batman":
 
