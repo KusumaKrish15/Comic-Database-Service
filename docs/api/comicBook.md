@@ -1,4 +1,45 @@
-Base endpoint: {server_url}/comicBooks
+---
+layout: page
+---
+
+# `user` resource
+
+Base endpoint:
+
+```shell
+
+{server_url}/comicBooks
+```
+
+Contains information about the comic books in the collection. A comicBook resource describes the details of individual comic books including the issue number, publisher, and other relevant details.
+
+## Resource properties
+
+Sample `user` resource
+
+```js
+
+{
+  "title": "batman",
+  "issueNumber": 1,
+  "publisher": "DC_Comics",
+  "date": "Spring_1940",
+  "conditionGrade": "7.5",
+  "status": "Restored",
+  "upcCode": "0087021001",
+  "tradePrice": 198000.00,
+  "currency": "USD"
+}
+```
+
+| Property name | Type | Description |
+| ------------- | ----------- | ----------- |
+| `last_name` | string | The user's last name |
+| `first_name` | string | The user's first name |
+| `email` | string | The user's email address |
+| `id` | number | The user's unique record ID |
+
+Base endpoint: 
 Contains information about the comic books in the collection. A comicBook resource describes the details of individual comic books including the issue number, publisher, and other relevant details.
 Resource Properties
 Sample ComicBook Resource
