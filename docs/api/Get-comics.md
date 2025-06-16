@@ -7,7 +7,7 @@ Lists all comic books in the collection or a specific comic book by title.
 `GET`
 
 ## Endpoints
-•	**List all comic books**: {base_url}/comicBooks
+•	**List all comic books**: {base_url}/comicBooks <br>
 •	**Get a comic book by title**: {base_url}/comicBooks/{title} 
 
 ## Base URL Parameters
