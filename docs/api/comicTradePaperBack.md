@@ -4,7 +4,7 @@ layout: page
 
 # `comicTradePaperBack` resource
 
-Base endpoint:
+**Base endpoint**:
 
 ```shell
 
