@@ -11,7 +11,7 @@ The Comic Database Service lets you search for a comic in the database. Use this
 
 First, do this tutorial to set up your development system for these tutorials. You only have to do this one time per development system.
 
-* [Setting up your development system](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/tutorials/dev-env.md))
+* [Setting up your development system](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/tutorials/dev-env.md)
 
 After your system is ready, these tutorials show you how to perform common tasks.
 - [Getting started with the Comic Database Service API](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/tutorials/Getting_started.md)
