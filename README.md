@@ -6,6 +6,8 @@ The Comic Database Service lets you search for a comic in the database. Use this
 
 For the REST API docs, see [The Comic-Database-Service docs](./docs) folder.
 
+Start with the Quick Start Guide, or browse all available endpoints in the API Overview.
+
 **NOTE**:
 
 > This code is experimental and is intended for instructional use only.
