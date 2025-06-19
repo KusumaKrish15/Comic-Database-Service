@@ -5,7 +5,7 @@ For the REST API docs, see [The Comic-Database-Service docs](./docs) folder.
 
 **NOTE**:
 
-This code is experimental and is intended for instructional use only.
+> This code is experimental and is intended for instructional use only.
 Use at your own risk. No warranty of serviceability is expressed or implied.
 
 ## Contributing documentation
