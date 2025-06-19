@@ -1,6 +1,6 @@
 # Get all comic books or a book by title
 
-Lists all comic books in the collection or a specific comic book by title.
+Use the endpoints below to list all comic books in the collection or a specific comic book by title.
 
 ## Method
 
