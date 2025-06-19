@@ -1,6 +1,6 @@
 # Get all comic trade paperback books or a trade paperback book by title
 
-Lists all comic trade paperback books in the collection or a specific comic trade paperback book by title.
+Use the endpoints below to list all comic trade paperback books in the collection or a specific comic trade paperback book by title.
 
 ## Method
 
