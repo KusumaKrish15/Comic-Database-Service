@@ -1,12 +1,9 @@
 # Comic-Database-Service
-The Comic Database Service lets you search for a comic in the database. Use this API service to:
-- Get a list of all comic books or a specific comic book by title from the database.
-- Add a comic or a comic trade paperback book to the database.
-- Retrieve details like characters, authors, year of publication, and so on of a specific comic book.  
+The Comic Database Service provides a cloud-hosted database through which you can search for your favorite comic book. You can retrieve details like characters, authors, year of publication, and so on of a specific comic book. 
 
 For the REST API docs, see [The Comic-Database-Service docs](./docs) folder.
 
-Start with the Quick Start Guide, or browse all available endpoints in the API Overview.
+Start with the [Overview](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/overview/comic-database-overview.md) topic and browse through the available tutorials, references, and resources.
 
 **NOTE**:
 
