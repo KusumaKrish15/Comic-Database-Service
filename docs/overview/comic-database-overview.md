@@ -8,7 +8,7 @@ The Comic Database Service provides a cloud-hosted database through which you ca
 
 First, do this tutorial to set up your development system for these tutorials. You only have to do this one time per development system.
 
-* [Setting up your development system](./tutorials/dev-env.md)
+* [Setting up your development system](./dev-env.md)
 
 After your system is ready, these tutorials show you how to perform common tasks.
 - Getting started
