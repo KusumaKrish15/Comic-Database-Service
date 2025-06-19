@@ -1,7 +1,6 @@
 # Comic Database Service API
 
-This is a mock API to simulate the REST interface of an
-imaginary service.
+This is a mock API to simulate the REST interface of an imaginary service.
 
 The Comic Database Service provides a cloud-hosted database through which you can search for your favorite comic book. You can retrieve details like characters, authors, year of publication, and so on of a specific comic book.
 
