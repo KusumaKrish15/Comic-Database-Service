@@ -6,18 +6,16 @@ The Comic Database Service provides a cloud-hosted database through which you ca
 
 ## Tutorials
 
-Learn how to do common tasks with in the Comic Database Service.
-
 First, do this tutorial to set up your development system for these tutorials. You only have to do this one time per development system.
 
 * [Before you start a tutorial](./tutorials/Getting_started.md)
 
 After your system is ready, these tutorials show you how to perform common tasks.
-
+- Getting started
 
 ## API reference docs
 
-Detailed descriptions of the service's resources.
+These API References show detailed descriptions of the service's resources.
 
 The API reference docs refer to a `{base_url}` when they
 refer to the URL of a resource. The `{base_url}` value depends
