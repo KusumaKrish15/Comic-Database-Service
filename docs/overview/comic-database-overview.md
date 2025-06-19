@@ -11,7 +11,9 @@ First, do this tutorial to set up your development system for these tutorials. Y
 * [Setting up your development system](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/tutorials/dev-env.md))
 
 After your system is ready, these tutorials show you how to perform common tasks.
-- Getting started
+- [Getting started with the Comic Database Service API](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/tutorials/Getting_started.md)
+- [Add a new comic to the database](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/tutorials/Add_a_new_comic.md)
+- [Update an existing comic in the database](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/tutorials/Update_a_comic.md)
 
 ## API reference docs
 
