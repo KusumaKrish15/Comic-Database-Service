@@ -17,7 +17,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 
 ## API reference docs
 
-These API References show detailed descriptions of the service's resources.
+The API References show detailed descriptions of the service's resources.
 
 The API reference docs refer to a `{base_url}` when they
 refer to the URL of a resource. The `{base_url}` value depends
@@ -26,3 +26,13 @@ on the installation of the service.
 When run locally for testing, the `{base_url}` is
 generally `http://localhost:3000`.
 
+- [Get a list of comic books](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/api/Get-comics.md)
+- [Get a list of comic trade paperback books](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/api/Get-comics-paperback.md)
+- [Add a new comic book](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/api/Post-comic.md)
+- [Add a new comic trade paperback book](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/api/Post-comic-paperback.md)
+
+## API resources
+
+These API resources and endpoints are available:
+- [comicBook](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/api/comicBook.md)
+- [comicTradePaperBack](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/api/comicTradePaperBack.md)
