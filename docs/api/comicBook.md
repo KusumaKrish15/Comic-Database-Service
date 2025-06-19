@@ -4,7 +4,7 @@ layout: page
 
 # `comicBook` resource
 
-Base endpoint:
+**Base endpoint**:
 
 ```shell
 
