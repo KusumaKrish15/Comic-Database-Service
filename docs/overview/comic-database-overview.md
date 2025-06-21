@@ -5,7 +5,15 @@ This is a mock API to simulate the REST interface of an imaginary service.
 The Comic Database Service lets you search for a comic in the database. Use this API service to:
 - Get a list of all comic books or a specific comic book by title from the database.
 - Add a comic or a comic trade paperback book to the database.
-- Retrieve details like characters, authors, year of publication, and so on of a specific comic book. 
+- Retrieve the following details for each comic book and comic trade paperback in the database:
+    - `issueNumber`: The specific issue number of the book.
+    - `publisher`: The company that published the book.
+    - `date`: The publication date of the book.
+    - `conditionGrade`: The grade indicating the condition of the book.
+    - `status`: The status of the comic book (e.g., Restored).
+    - `upcCode`: The unique product code for the comic book.
+    - `tradePrice`: The trade price of the comic book.
+    - `currency`: The currency of the trade price.
 
 ## Tutorials
 
