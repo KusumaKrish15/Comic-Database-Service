@@ -45,7 +45,7 @@ curl http://localhost:3000/comicBooks
 ```
 
 ### If you’re using Postman
-1 In Postman’s main panel select GET and add the following content to the URL text box: http://localhost:3000/comicBooks/.
+1. In Postman’s main panel select GET and add the following content to the URL text box: http://localhost:3000/comicBooks/.
 
 ## Step 4: Check the response
 The response pane should show all the comic books. An example below. 
