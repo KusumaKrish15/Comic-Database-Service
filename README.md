@@ -27,3 +27,5 @@ If you'd like to contribute:
     * Must have no lint or Vale errors.
     * Must have no errors in any code examples.
 5. Test your changes locally from your feature branch before you submit a pull request.
+
+**Next**⏭️ [Comic Database Service overview](overview/comic-database-overview.md)
