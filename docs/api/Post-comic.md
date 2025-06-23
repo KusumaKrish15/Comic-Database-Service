@@ -1,4 +1,4 @@
-## Add a new comic
+# Add a new comic
 Creates a new comic book entry in the collection.
 
 ## Method: 
@@ -60,3 +60,9 @@ Returns the information from the request body plus a unique ID for the comic boo
 | Status value | Return status | Description |
 | --- | --- | --- |
 | 201 | Created | A new resource was created successfully |
+
+
+<br>
+<br>
+
+**Next** ⏭️ [Update a comic](../api/Post-comic.md)
