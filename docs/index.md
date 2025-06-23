@@ -34,4 +34,4 @@ If you'd like to contribute:
 <br>
 <br>
 
-<mark>**Next** ⏭️ [Comic Database Service overview](../overview/comic-database-overview.md)</mark>
+<mark>**Next** ⏭️ [Comic Database Service overview](docs/overview/comic-database-overview.md)</mark>
