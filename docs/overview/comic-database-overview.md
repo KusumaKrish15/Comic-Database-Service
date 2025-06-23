@@ -33,9 +33,7 @@ The API References show detailed descriptions of the service's resources.
 
 > The API reference docs refer to a `{base_url}` when they
 refer to the URL of a resource. The `{base_url}` value depends
-on the installation of the service.
-
-> When run locally for testing, the `{base_url}` is
+on the installation of the service. When run locally for testing, the `{base_url}` is
 generally `http://localhost:3000`.
 
 - [Get a list of comic books](../api/Get-comics.md)
