@@ -65,4 +65,4 @@ Returns the information from the request body plus a unique ID for the comic boo
 <br>
 <br>
 
-**Next** ⏭️ [Update a comic](../api/Post-comic.md)
+**Next** ⏭️ [Update a comic](../api/Post-comic-paperback.md)
