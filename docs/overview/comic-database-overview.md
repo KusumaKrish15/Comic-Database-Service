@@ -48,6 +48,6 @@ These API resources and endpoints are available:
 - [comicTradePaperBack](../api/comicTradePaperBack.md)
 <br>
 <br>
-<p align='right'>  
-⏭️ [Setting up your development system](../tutorials/dev-env.md)
-</p>
+
+**Next**⏭️ [Setting up your development system](../tutorials/dev-env.md)
+
