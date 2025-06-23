@@ -5,9 +5,7 @@ For the REST API docs, see [The Comic-Database-Service docs](/docs) folder.
 
 Start with the [Overview](overview/comic-database-overview.md) topic and browse through the available tutorials, references, and resources.
 
-**NOTE**:
-
-> This code is experimental and is intended for instructional use only.
+> 📘 **NOTE**: This code is experimental and is intended for instructional use only.
 Use at your own risk. No warranty of serviceability is expressed or implied.
 
 ## Contributing documentation
