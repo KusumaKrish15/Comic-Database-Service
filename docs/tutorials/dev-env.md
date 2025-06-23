@@ -70,19 +70,18 @@ To download each file:
 
    ```
    {
-     "batman": [
-    {
-      "issueNumber": 1,
-      "publisher": "DC_Comics",
-      "date": "Spring_1940",
-      "conditionGrade": "7.5",
-      "status": "Restored",
-      "upcCode": "0087021001",
-      "tradePrice": 198000,
-      "currency": "USD"
-    }
+  "batman": [
+ {
+   "issueNumber": 1,
+   "publisher": "DC_Comics",
+   "date": "Spring_1940",
+   "conditionGrade": "7.5",
+   "status": "Restored",
+   "upcCode": "0087021001",
+   "tradePrice": 198000,
+   "currency": "USD"
+ }
    ```
-
 
 4. If you don't see the list of users, or receive an error in any step of the procedure, investigate and correct the error before continuing. Some common situations that cause errors include:
 
