@@ -21,6 +21,7 @@ This tutorial covers updating an existing comic book. You'll learn how to update
   "currency": "USD"
 }
 ```
+
 2. Save this JSON data in a file called `update_comic.json`.
 
 ## Step 2. cURL command to update the comic book
@@ -32,7 +33,7 @@ curl -X PUT "http://localhost:3000/comicBooks/batman/1" \
      -d @update_comic.json
 ```
 
-### Step 3: Using with the json-server
+## Step 3: Using with the json-server
 Follow these steps:
 
 1. Start the json server.
@@ -87,6 +88,7 @@ curl -X PUT "http://localhost:3000/comicBooks/batman/1" \
 ```
 curl -X GET "http://localhost:3000/comicBooks/batman/1" -H "accept: application/json"
 ```
+
 2. This should return the updated details of the "Batman" comic book.
 
 You have successfully updated an existing comic book using cURL. 
