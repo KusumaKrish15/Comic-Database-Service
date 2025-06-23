@@ -47,6 +47,6 @@ Sample `comicTradePaperBack` resource
 This resource can be used to manage the collection of comic trade paperbacks, including adding, updating, and retrieving detailed information about each trade paperback in the collection.
 <br>
 <br>
-<p align='right'>  
-⏭️ [Comic Database Service overview](overview/comic-database-overview.md)
-</p>
+
+**Next** ⏭️ [Get a list of comics](api/Get-comics.md)
+
