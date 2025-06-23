@@ -45,3 +45,8 @@ Sample `comicTradePaperBack` resource
 | `currency` | string | The currency used for the trade price |
 
 This resource can be used to manage the collection of comic trade paperbacks, including adding, updating, and retrieving detailed information about each trade paperback in the collection.
+<br>
+<br>
+<p align='right'>  
+⏭️ [Comic Database Service overview](overview/comic-database-overview.md)
+</p>
