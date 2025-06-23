@@ -46,4 +46,9 @@ Sample `comicBook` resource
 
 This resource can be used to manage the collection of comic books, including adding, updating, and retrieving detailed information about each comic book in the collection.
 
+<br>
+<br>
+<p align='right'>  
+⏭️ [comicTradePaperBack resource](../api/comicTradePaperBack.md)
+</p>
 
