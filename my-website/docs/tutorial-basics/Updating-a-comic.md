@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # Update a comic
 This tutorial covers updating an existing comic book. You'll learn how to update the JSON data, use cURL commands to make PUT requests, and verifying the update.
 
