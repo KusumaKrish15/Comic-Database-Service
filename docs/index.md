@@ -35,6 +35,5 @@ If you'd like to contribute:
 5. Test your changes locally from your feature branch before you submit a pull request.
 <br>
 <br>
-<p align='right'>  
+
 ⏭️ [Comic Database Service overview](overview/comic-database-overview.md)
-</p>
