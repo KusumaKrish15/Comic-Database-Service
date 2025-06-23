@@ -33,7 +33,7 @@ curl -X POST "https://api.example.com/comics/greenLantern" \
      -d @new_comic.json
 ```
 
-### Step 3: Using with the json-server
+## Step 3: Using with the json-server
 Follow these steps:
 
 1. Start the json server
@@ -88,6 +88,7 @@ curl -X POST "http://localhost:3000/comicBooks/greenLantern" \
 ```
 curl -X GET "http://localhost:3000/comicBooks/greenLantern" -H "accept: application/json"
 ```
+
 2. This should return the details of the newly added "Green Lantern" comic book.
 
 You have successfully added a new comic book to your collection using cURL. 
