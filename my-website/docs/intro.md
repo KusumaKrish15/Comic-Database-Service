@@ -4,44 +4,28 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Comic-Database-Service
+The Comic Database Service provides a cloud-hosted database through which you can search for your favorite comic book. You can retrieve details like comic issue number, publisher, date of publication, and so on of a specific comic book.
 
-## Getting Started
+For the REST API docs, see The Comic-Database-Service docs folder.
 
-Get started by **creating a new site**.
+Start with the Overview topic and browse through the available tutorials, references, and resources.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+📘 NOTE: This code is experimental and is intended for instructional use only. Use at your own risk. No warranty of serviceability is expressed or implied.
 
-### What you'll need
+## Contributing documentation
+Feel free to contribute new documentation and improve existing the existing docs.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+If you'd like to contribute:
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Fork this repository to your own GitHub account.
+Make sure you can build a local copy of the documentation from your fork.
+Install Vale on your development or editing computer. To help you have a successful pull request experience, it's also helpful to add these extensions if you edit in VSCode:
+Markdownlint
+Vale VSCode
+A successful pull request:
+Must not require additional content in order for your pull request to work.
+Must help the end user of the product. Ideally you'll address an issue, while some opportunities for improvement don't have a corresponding issue.
+Must have no lint or Vale errors.
+Must have no errors in any code examples.
+Test your changes locally from your feature branch before you submit a pull request.
