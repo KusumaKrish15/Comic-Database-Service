@@ -94,6 +94,6 @@ curl -X GET "http://localhost:3000/comicBooks/batman/1" -H "accept: application/
 You have successfully updated an existing comic book using cURL. 
 <br>
 <br>
-<p align='right'> 
-⏭️ [comicBook resource](../api/comicBook.md)
-</p>
+
+**Next** ⏭️ [comicBook resource](../api/comicBook.md)
+
