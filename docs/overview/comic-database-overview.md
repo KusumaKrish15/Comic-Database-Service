@@ -38,13 +38,13 @@ on the installation of the service.
 > When run locally for testing, the `{base_url}` is
 generally `http://localhost:3000`.
 
-- [Get a list of comic books](./api/Get-comics.md)
-- [Get a list of comic trade paperback books](./api/Get-comics-paperback.md)
-- [Add a new comic book](./api/Post-comic.md)
-- [Add a new comic trade paperback book](./api/Post-comic-paperback.md)
+- [Get a list of comic books](../api/Get-comics.md)
+- [Get a list of comic trade paperback books](../api/Get-comics-paperback.md)
+- [Add a new comic book](../api/Post-comic.md)
+- [Add a new comic trade paperback book](../api/Post-comic-paperback.md)
 
 ## API resources
 
 These API resources and endpoints are available:
-- [comicBook](./api/comicBook.md)
-- [comicTradePaperBack](./api/comicTradePaperBack.md)
+- [comicBook](../api/comicBook.md)
+- [comicTradePaperBack](../api/comicTradePaperBack.md)
