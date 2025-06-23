@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Getting started: a tutorial
 <mark>Adapted from To-do service API overview. </mark>
 
