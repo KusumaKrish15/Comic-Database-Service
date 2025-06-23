@@ -49,6 +49,6 @@ This resource can be used to manage the collection of comic books, including add
 <br>
 <br>
 
-**Next** ⏭️ [comicTradePaperBack resource](../api/comicTradePaperBack.md)
+<mark>**Next** ⏭️ [comicTradePaperBack resource](../api/comicTradePaperBack.md)</mark>
 
 
