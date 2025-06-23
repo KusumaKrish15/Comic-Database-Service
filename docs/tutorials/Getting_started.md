@@ -48,6 +48,7 @@ curl http://localhost:3000/comicBooks
 
 ## Step 4: Check the response
 The response pane should show all the comic books. An example below. 
+
  ```
    {
      "batman": [
@@ -61,4 +62,4 @@ The response pane should show all the comic books. An example below.
       "tradePrice": 198000,
       "currency": "USD"
     }
-
+```
