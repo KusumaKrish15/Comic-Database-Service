@@ -92,3 +92,9 @@ curl -X GET "http://localhost:3000/comicBooks/greenLantern" -H "accept: applicat
 2. This should return the details of the newly added "Green Lantern" comic book.
 
 You have successfully added a new comic book to your collection using cURL. 
+
+<br>
+<br>
+<p align='right'> 
+⏭️ [Update an existing comic in the database](../tutorials/Update_a_comic.md)
+</p>
