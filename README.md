@@ -1,8 +1,6 @@
 # Comic-Database-Service
 The Comic Database Service provides a cloud-hosted database through which you can search for your favorite comic book. You can retrieve details like comic issue number, publisher, date of publication, and so on of a specific comic book. 
 
-For the REST API docs, see [The Comic-Database-Service docs](./docs) folder.
-
 Start with the [Overview](docs/overview/comic-database-overview.md) topic and browse through the available tutorials, references, and resources.
 
 **NOTE**:
