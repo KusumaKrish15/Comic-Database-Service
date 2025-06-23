@@ -64,3 +64,8 @@ The response pane should show all the comic books. An example below.
       "currency": "USD"
     }
 ```
+<br>
+<br>
+<p align='right'>  
+⏭️ [Add a new comic to the database](../tutorials/Add_a_new_comic.md)
+</p>
