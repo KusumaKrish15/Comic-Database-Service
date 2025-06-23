@@ -56,4 +56,4 @@ Returns all comic books or the specific comic book requested. The following exam
 <br>
 <br>
 
-**Next** ⏭️ [Get all comics by title](../api/Get-comics-paperback.md)
+**Next** ⏭️ [Get all comic trade paperback books](../api/Get-comics-paperback.md)
