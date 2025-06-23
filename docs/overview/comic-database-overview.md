@@ -23,9 +23,9 @@ First, do this tutorial to set up your development system for these tutorials. Y
 * [Setting up your development system](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/tutorials/dev-env.md)
 
 After your system is ready, these tutorials show you how to perform common tasks.
-- [Getting started with the Comic Database Service API](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/tutorials/Getting_started.md)
-- [Add a new comic to the database](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/tutorials/Add_a_new_comic.md)
-- [Update an existing comic in the database](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/tutorials/Update_a_comic.md)
+- [Getting started with the Comic Database Service API](/tutorials/Getting_started.md)
+- [Add a new comic to the database](/tutorials/Add_a_new_comic.md)
+- [Update an existing comic in the database](/tutorials/Update_a_comic.md)
 
 ## API reference docs
 
@@ -38,13 +38,13 @@ on the installation of the service.
 When run locally for testing, the `{base_url}` is
 generally `http://localhost:3000`.
 
-- [Get a list of comic books](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/api/Get-comics.md)
-- [Get a list of comic trade paperback books](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/api/Get-comics-paperback.md)
-- [Add a new comic book](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/api/Post-comic.md)
-- [Add a new comic trade paperback book](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/api/Post-comic-paperback.md)
+- [Get a list of comic books](/api/Get-comics.md)
+- [Get a list of comic trade paperback books](/api/Get-comics-paperback.md)
+- [Add a new comic book](/api/Post-comic.md)
+- [Add a new comic trade paperback book](/api/Post-comic-paperback.md)
 
 ## API resources
 
 These API resources and endpoints are available:
-- [comicBook](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/api/comicBook.md)
-- [comicTradePaperBack](https://github.com/KusumaKrish15/Comic-Database-Service/blob/main/docs/api/comicTradePaperBack.md)
+- [comicBook](/api/comicBook.md)
+- [comicTradePaperBack](/api/comicTradePaperBack.md)
