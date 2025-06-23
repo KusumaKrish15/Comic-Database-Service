@@ -1,4 +1,4 @@
-## Add a new comic trade paperback book
+# Add a new comic trade paperback book
 Creates a new comic trade paperback book entry in the collection.
 
 ## Method: 
@@ -60,3 +60,9 @@ Returns the information from the request body plus a unique ID for the comic tra
 | Status value | Return status | Description |
 | --- | --- | --- |
 | 201 | Created | A new resource was created successfully |
+
+
+<br>
+<br>
+
+**Next** ⏭️ [Comic Book Database API overview](../overview/comic-database-overview.md)
