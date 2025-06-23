@@ -53,3 +53,7 @@ Returns all comic books or the specific comic book requested. The following exam
 | 400          | Bad Request   | The server couldn't understand the request |
 | 404 | Not Found | Requested resource could not be found |
 
+<br>
+<br>
+
+**Next** ⏭️ [Get all comics by title](../api/Get-comics-paperback.md)
