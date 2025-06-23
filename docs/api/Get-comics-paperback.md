@@ -54,3 +54,9 @@ Returns all comic trade paperback books or the specific comic trade paperback bo
 | 404 | Not Found | Requested resource could not be found |
 
 This documentation provides details on how to fetch all comic trade paperback books or a specific comic trade paperback book by its title, using a cURL example.
+
+
+<br>
+<br>
+
+**Next** ⏭️ [Add a new comic book](../api/Post-comic.md)
