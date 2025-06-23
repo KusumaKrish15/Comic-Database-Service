@@ -59,4 +59,4 @@ This documentation provides details on how to fetch all comic trade paperback bo
 <br>
 <br>
 
-**Next** ⏭️ [Add a new comic book](../api/Post-comic.md)
+<mark>**Next** ⏭️ [Add a new comic book](../api/Post-comic.md)</mark>
