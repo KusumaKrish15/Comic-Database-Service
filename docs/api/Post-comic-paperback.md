@@ -65,4 +65,4 @@ Returns the information from the request body plus a unique ID for the comic tra
 <br>
 <br>
 
-**Next** ⏭️ [Comic Book Database API overview](../overview/comic-database-overview.md)
+<mark>**Next** ⏭️ [Comic Book Database API overview](../overview/comic-database-overview.md)</mark>
